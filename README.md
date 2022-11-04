@@ -1,4 +1,4 @@
-## Olá, meu nome é Rian Santos :)
+## Me chamo Rian Santos!
 <div align="center">
   <a href="https://github.com/ryanzin10">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryanzin10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
